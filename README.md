@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **From hating engineering as a kid, to 'can't stop loving it!', I have come a long way.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
