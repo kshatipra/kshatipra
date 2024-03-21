@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 <h3 align="center">A technology geek by day, A writer, a dancer, a musician, a chef and a badminton player by night.</h3>
 
-<img align="centre" alt="coding" width="400" src="https://github.com/penp123/penp123/assets/160175618/497be03b-9eba-405f-b492-6b5958f64eb3" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penp123&label=Profile%20views&color=0e75b6&style=flat" alt="penp123" /> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine learning**
