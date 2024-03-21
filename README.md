@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 <h3 align="center">A technology geek by day, A writer, a dancer, a musician, a chef and a badminton player by night.</h3>
 
-<img align="right" alt="coding" width="500" src="https://github.com/penp123/penp123/assets/160175618/0195e2ec-8a1e-4f34-a771-6a0a7950a10f" />
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penp123&label=Profile%20views&color=0e75b6&style=flat" alt="penp123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penp123" alt="penp123" /></a> </p>
