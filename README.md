@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 <h3 align="center">A technology geek by day, A writer, a dancer, a musician, a chef and a badminton player by night.</h3>
 
-<img align = "right" alt="coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw2kypGl7f_KwOwu0o8pqqCu&ust=1711122282550000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICRyLDZhYUDFQAAAAAdAAAAABBW">
+<img align = "right" alt="coding" width = "400" src="image-1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penp123&label=Profile%20views&color=0e75b6&style=flat" alt="penp123" /> </p>
 
