@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pratikshapendse10@gmail.com**
 
-- - 📝 I regularly write articles on [https://medium.com/@kshatipra](https://medium.com/@kshatipra)
+- 📝 I regularly write articles on [https://medium.com/@kshatipra](https://medium.com/@kshatipra)
 
 - ⚡ Fun fact **From hating engineering as a kid, to 'can't stop loving it!', I have come a long way.**
 
