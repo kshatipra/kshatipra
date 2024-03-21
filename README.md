@@ -1,4 +1,4 @@
-![logo](https://github.com/penp123/penp123/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape.png)
+![logo](https://github.com/penp123/penp123/blob/main/Black%20and%20Blue%20Futuristic%20Technology%20Banner%20Landscape(1).png)
 <h1 align="center">Hi 👋, I'm Pratiksha</h1>
 <h3 align="center">A technology geek by day, A writer, a dancer, a musician, a chef and a badminton player by night.</h3>
 
