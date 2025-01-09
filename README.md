@@ -15,6 +15,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kshatipra](https://medium.com/@kshatipra)
 
+- 👋 This is my website, please have a look: https://pratikshapendse.my.canva.site
+
 - ⚡ Fun fact **From hating engineering as a kid, to 'can't stop loving it!', I have come a long way.**
 
 <p align="left">
