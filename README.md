@@ -23,7 +23,7 @@ Building practical, end-to-end projects (data → model → deployment).
 Also: **C/C++**, Arduino, MATLAB (for signal prototyping)
 
 ### I build projects to solve real-world problems: Some Highlights
-1. I recently developed **Speak to See**, a computer-vision system using **OpenCV** that assists visually impaired users by identifying objects in their surroundings through audio feedback. Current work focuses on extending object detection into **semantic scene understanding** — not just *what* is present (e.g., a person), but *what is happening* (e.g., walking, sitting, interacting). This shift from detection to context can significantly improve usability in real-world assistive applications.
+1. I recently developed **Speak to See**, a computer-vision system using **OpenCV** that assists visually impaired users by identifying objects in their surroundings through audio feedback. Current work focuses on extending object detection into **semantic scene understanding** not just *what* is present (e.g., a person), but *what is happening* (e.g., walking, sitting, interacting). This shift from detection to context can significantly improve usability in real-world assistive applications.
 2. **Healthcare Analytics App:**  
   A **Streamlit ML application** for preliminary disease risk analysis, providing interpretable predictions and visual summaries to support clinicians during early-stage assessment.
 
