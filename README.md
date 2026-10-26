@@ -6,9 +6,9 @@ Building practical, end-to-end projects (data → model → deployment).
 </p>
 
 <p align="center">
-  <a href="mailto:pratikshapendse10@gmail.com">Email</a> •
+  <a href="mailto:pratiksha.pendse19@gmail.com">Email</a> •
   <a href="https://medium.com/@kshatipra">Medium</a> •
-  <a href="https://pratikshapendse.my.canva.site">Portfolio</a>
+  <a href="https://kshatipra.github.io/Portfolio/index.html">Portfolio</a>
 </p>
 
 ---
