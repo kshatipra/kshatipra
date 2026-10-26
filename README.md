@@ -23,11 +23,11 @@ Live demo · Code
 <td width="50%" valign="top">
 
 
-FROST Aura — Product Campaign & Short Film
+Python Projects — Practical Programming
 
-A lightweight three-page product campaign site, including a research page and a standalone 35-second film.
+A collection of Python programming projects and exercises.
 
-Campaign site · Watch the film
+Explore the repository
 </td>
 </tr>
 <tr>
@@ -53,9 +53,8 @@ View repository
 </table>
 
 Demo spotlight
-<a href="https://kshatipra.github.io/FROST_AURA/film.html"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch-FROST%20Aura%2035s%20film-2563eb?style=for-the-badge" alt="Watch the FROST Aura short film" /></a>
 <a href="https://kshatipra.github.io/kidhar-hai/"><img src="https://img.shields.io/badge/%E2%86%97%20Try-Kidhar%20Hai%20live%20demo-0f766e?style=for-the-badge" alt="Try the Kidhar Hai live demo" /></a>
-GitHub profile READMEs do not reliably support autoplay video. These links open the real film and live app without slowing down the profile.
+GitHub profile READMEs do not reliably support autoplay video. The live demo link opens the application without slowing down the profile.
 
 Technical toolkit
 Languages: C++ · C · Python · SQL
