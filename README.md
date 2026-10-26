@@ -54,7 +54,7 @@ View repository
 
 Demo spotlight
 <a href="https://kshatipra.github.io/kidhar-hai/"><img src="https://img.shields.io/badge/%E2%86%97%20Try-Kidhar%20Hai%20live%20demo-0f766e?style=for-the-badge" alt="Try the Kidhar Hai live demo" /></a>
-GitHub profile READMEs do not reliably support autoplay video. The live demo link opens the application without slowing down the profile.
+
 
 Technical toolkit
 Languages: C++ · C · Python · SQL
